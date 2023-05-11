@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C17B28CD2A0CE62300C658F1 /* DinnerAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B28CC2A0CE62300C658F1 /* DinnerAppApp.swift */; };
+		C17B28CD2A0CE62300C658F1 /* DinnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B28CC2A0CE62300C658F1 /* DinnerApp.swift */; };
 		C17B28CF2A0CE62300C658F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B28CE2A0CE62300C658F1 /* ContentView.swift */; };
 		C17B28D12A0CE62700C658F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C17B28D02A0CE62700C658F1 /* Assets.xcassets */; };
 		C17B28D42A0CE62700C658F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C17B28D32A0CE62700C658F1 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		C17B28C92A0CE62300C658F1 /* DinnerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DinnerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C17B28CC2A0CE62300C658F1 /* DinnerAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DinnerAppApp.swift; sourceTree = "<group>"; };
+		C17B28CC2A0CE62300C658F1 /* DinnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DinnerApp.swift; sourceTree = "<group>"; };
 		C17B28CE2A0CE62300C658F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C17B28D02A0CE62700C658F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C17B28D32A0CE62700C658F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		C17B28CB2A0CE62300C658F1 /* DinnerApp */ = {
 			isa = PBXGroup;
 			children = (
-				C17B28CC2A0CE62300C658F1 /* DinnerAppApp.swift */,
+				C17B28CC2A0CE62300C658F1 /* DinnerApp.swift */,
 				C17B28CE2A0CE62300C658F1 /* ContentView.swift */,
 				C17B28D02A0CE62700C658F1 /* Assets.xcassets */,
 				C17B28D22A0CE62700C658F1 /* Preview Content */,
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C17B28CF2A0CE62300C658F1 /* ContentView.swift in Sources */,
-				C17B28CD2A0CE62300C658F1 /* DinnerAppApp.swift in Sources */,
+				C17B28CD2A0CE62300C658F1 /* DinnerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
